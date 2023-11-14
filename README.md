@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @icesmpx31
-
+- 👋 oi, sou o Samuel 
+sou do 1B
 
 <!---
 icesmpx31/icesmpx31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
